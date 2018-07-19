@@ -1,0 +1,16 @@
+# pack-refs with: peeled fully-peeled sorted 
+658b7e08ba30be5bbd0aaa4004a0fc9f276ba370 refs/remotes/origin/gh-pages
+c0000fbd3fd14759a1a028a2b7a9d65974e6cbea refs/remotes/origin/master
+01e981938e4b85780149c221e64436e63c4e4b48 refs/remotes/origin/review
+832f19340bb10e47f9651162dbb2a067230c369a refs/tags/1.9.5
+62808e42c69a460d4c5a3259112b7ed039f799b1 refs/tags/1.9.5_1
+9567f917b00fa170224c7a06e2e0518e425b793f refs/tags/1.9.5_2
+7c617ec1d7d54202fcd94a190ca621408fba31f6 refs/tags/1.9.6
+804cd63ca1454abfcba6f4210d419fde7d0c5e2e refs/tags/1.9.6_1
+^13f17c5c2dfcede7d8cca63a3ec09cb82a56049d
+d66f557a05bd08f1cb7b5ddd3b4e14e84526298c refs/tags/1.9.6_2
+8788fee4fbe49837aaea64c78c4987abaa306156 refs/tags/1.9.6_3
+^dd9a12427d122e0496f26cc896efb5fd8fee8eb8
+33ff5427175fffd81e562b1849f88796faeeec5b refs/tags/1.9.7
+901bb040075577db13a93e00b4ae214caddbdd72 refs/tags/1.9.7-rc1
+50b3dec229257e8d8c3c1f202768d1ce41560228 refs/tags/1.9.7-rc2
